@@ -6,7 +6,10 @@
 때론 **팀원**으로, 때론 **팀장**으로 프로젝트를 진행하며 다양한 개발 경험을 쌓았습니다.<br>
 이후 **지속적인 스터디 모임**과 **프로젝트**를 통해서 다양한 언어의 활용도를 높이고 있습니다.<br>
 
-![show](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)<br>
+## 🛠 Skills
+![show](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+![show](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![show](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 
 ## 💻 Projects
