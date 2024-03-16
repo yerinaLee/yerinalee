@@ -47,19 +47,8 @@ ERP와 그룹웨어 시스템을 결합, 효율적인 자원 관리와 강화된
 ### 1) 전자결재 - 결재파트
 ![전자결재_이예리나](https://github.com/yerinaLee/yerinalee/assets/122720744/c6819ae1-a0ee-40aa-be27-3cadffd1c9b4)
 
-
-![001](https://github.com/lani-30/workspace/assets/122720744/aa97a6dd-27e6-4ba2-a34d-f9e5b6a405ab)
-![005](https://github.com/lani-30/workspace/assets/122720744/e661f7a6-7338-46e3-b344-b75c58caa4b7)
-![008](https://github.com/lani-30/workspace/assets/122720744/d9c5b1ee-0e97-4e70-b3eb-30cacff8df9b)
-
 ### 2) 관리자 페이지
 ![관리자_이예리나-002](https://github.com/yerinaLee/yerinalee/assets/122720744/02caa122-d041-4556-a329-68ac8cc74a29)
-
-
-![012](https://github.com/lani-30/workspace/assets/122720744/d9bd5764-ea4c-4452-995e-6e98e287c3ac)
-![013](https://github.com/lani-30/workspace/assets/122720744/631cc93b-8885-4a76-ba7f-241508f15946)
-![010](https://github.com/lani-30/workspace/assets/122720744/87f5e9e1-97f1-4e73-af39-a962cc02e8a7)
-
 
 ## 2. 🍜 Oliview 
 > Oliview는 **맛집 리뷰 컨텐츠**와 **채팅서비스**를 기반으로 혼자 식사하는것이 지루하거나 외로운 사람들이 다른사람들과 다양한 즐거움을 나눌 수 있는 기회를 제공합니다.<br>
