@@ -49,8 +49,6 @@
 - **Server** : Tomcat 10.1
 - **API** : FullCalender, CKEditor, Daum주소 API, PDF API
 - **etc**: GitHub, SourceTree, Figma, ERD cloud
-
-![001](https://github.com/lani-30/workspace/assets/122720744/86f69ea1-accb-48cb-882a-e00090722516)
 <br>
 
 ## 🙋‍♀️담당 기능
