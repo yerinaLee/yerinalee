@@ -36,12 +36,11 @@
 
 ## 1. 🍯 conBee [ 22.11.21-12.26 ]
 > conBee는 **편의점 본사와 지점운영을 지원하는 통합 솔루션**입니다.<br>
-ERP와 그룹웨어 시스템을 결합, 효율적인 자원 관리와 강화된 협업 기능을 제공합니다.
+**ERP**와 **그룹웨어** 시스템을 결합, 효율적인 자원 관리와 강화된 협업 기능을 제공합니다.
 * [**🔗 프로젝트 소개**](https://github.com/Bee-Keepers/conbee/tree/main)
 * [**🔗 담당기능 소개**](https://blog.naver.com/poikl11234/223311632237)<br>
 
-
-#### ⚙️ 개발 환경
+### ⚙️ 개발 환경
 - **Framework** : Springboot4, Mybatis, Bootstrap5
 - **IDE** : VS Code, Eclips, DBeaver
 - **FrontEnd** : HTML , CSS, Javascript ES6, jQuery, Ajax
@@ -50,7 +49,6 @@ ERP와 그룹웨어 시스템을 결합, 효율적인 자원 관리와 강화된
 - **Server** : Tomcat 10.1
 - **API** : FullCalender, CKEditor, Daum주소 API, PDF API
 - **etc**: GitHub, SourceTree, Figma, ERD cloud
-
 
 ![001](https://github.com/lani-30/workspace/assets/122720744/86f69ea1-accb-48cb-882a-e00090722516)
 <br>
@@ -67,8 +65,17 @@ ERP와 그룹웨어 시스템을 결합, 효율적인 자원 관리와 강화된
 * [**🔗 프로젝트 소개**](https://github.com/team-farmers/Oliview)
 * [**🔗 담당기능 소개**](https://blog.naver.com/poikl11234/223270562033)
 
+### ⚙️ 개발 환경
+* **OS** : Window 10
+* **IDE** : VS Code, IntelliJ Community, SQL Developer
+* **Language** : Java, Javascript ES6
+* **FrontEnd** : HTML , CSS
+* **BackEnd**: Spring Boot, Mybatis
+* **DB** : Oracle 19c
+* **Server** : Tomcat
+* **etc**: GitHub, Figma , ERD cloud
+
 ![001](https://github.com/lani-30/workspace/assets/122720744/8a21de08-c9a7-4d14-b57a-35c3cf267b56)
-![Oliview-_-복사본-006](https://github.com/yerinaLee/yerinalee/assets/122720744/6c130ac0-6b73-4358-8fb6-765122b15b81)
 
 ## 🙋‍♀️담당 기능
 ### 1) 메인페이지
