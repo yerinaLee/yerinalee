@@ -41,7 +41,7 @@ ERP와 그룹웨어 시스템을 결합, 효율적인 자원 관리와 강화된
 * [**🔗 담당기능 소개**](https://blog.naver.com/poikl11234/223311632237)<br>
 
 
-### ⚙️ 개발 환경
+#### ⚙️ 개발 환경
 - **Framework** : Springboot4, Mybatis, Bootstrap5
 - **IDE** : VS Code, Eclips, DBeaver
 - **FrontEnd** : HTML , CSS, Javascript ES6, jQuery, Ajax
