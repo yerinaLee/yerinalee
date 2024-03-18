@@ -4,7 +4,7 @@
 >안녕하세요! 꼼꼼하고 센스있는 신입 개발자 이예리나입니다.<br>
 개발자 과정을 통해 **프론트 & 백엔드 개발자의 역량**을 키웠고<br>
 때론 **팀원**으로, 때론 **팀장**으로 프로젝트를 진행하며 다양한 개발 경험을 쌓았습니다.<br>
-이후 **지속적인 스터디 모임**과 **프로젝트**를 통해서 다양한 언어의 활용도를 높이고 있습니다.<br><br>
+이후 **지속적인 스터디 모임**과 **프로젝트**를 통해서 다양한 언어의 활용도를 높이고 있습니다.<br>
 
 ## 🛠 Skills
 ![show](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
@@ -25,7 +25,7 @@
 ![show](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
 ![show](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=for-the-badge)
 ![show](https://img.shields.io/badge/Adobe%20Premiere%20Pro-99F?logo=adobepremierepro&logoColor=fff&style=for-the-badge)
-![show](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)<br>
+![show](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 
 ## 💻 Projects
@@ -49,7 +49,7 @@
 - **Server** : Tomcat 10.1
 - **API** : FullCalender, CKEditor, Daum주소 API, PDF API
 - **etc**: GitHub, SourceTree, Figma, ERD cloud
-- 
+
 ![001](https://github.com/lani-30/workspace/assets/122720744/86f69ea1-accb-48cb-882a-e00090722516)
 <br>
 
