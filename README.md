@@ -62,22 +62,12 @@ ERP와 그룹웨어 시스템을 결합, 효율적인 자원 관리와 강화된
 ### 1) 메인페이지
 ![012](https://github.com/yerinaLee/yerinalee/assets/122720744/efade9cb-8f21-46e8-8ae1-d8faa8a5b15f)
 
-![012](https://github.com/lani-30/workspace/assets/122720744/3e1743d7-a44b-4d89-93b4-9d6e21a1d361)
-
 ### 2) 회원 기능
 ![015](https://github.com/yerinaLee/yerinalee/assets/122720744/c4be2058-875c-4707-a023-079ffb7cb9a5)
-![015](https://github.com/lani-30/workspace/assets/122720744/3f98dbda-2054-47f6-935f-5f14df9a0d1a)
 
 ### 3) 마이페이지
 ![022](https://github.com/yerinaLee/yerinalee/assets/122720744/e01de860-8366-4913-b316-ae37e543606c)
-![022](https://github.com/lani-30/workspace/assets/122720744/badb5696-1159-4100-935b-ac9ec531fb3e)
 
 ### 4) 채팅 기능
 ![그림2](https://github.com/yerinaLee/yerinalee/assets/122720744/8e561820-cf00-46d2-b498-5d5308aea1dc)
 ![그림1](https://github.com/yerinaLee/yerinalee/assets/122720744/5d1d3388-de5b-4d3f-acbc-cf7dbf1db123)
-
-
-
-![047](https://github.com/lani-30/workspace/assets/122720744/192301fd-be0b-4f50-bb03-3bc38f25f9b2)
-![048](https://github.com/lani-30/workspace/assets/122720744/d6191c50-bb73-4a8e-8ff2-e64ab02046d3)
-
