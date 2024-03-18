@@ -40,6 +40,18 @@ ERP와 그룹웨어 시스템을 결합, 효율적인 자원 관리와 강화된
 * [**🔗 프로젝트 소개**](https://github.com/Bee-Keepers/conbee/tree/main)
 * [**🔗 담당기능 소개**](https://blog.naver.com/poikl11234/223311632237)<br>
 
+
+### ⚙️ 개발 환경
+- **Framework** : Springboot4, Mybatis, Bootstrap5
+- **IDE** : VS Code, Eclips, DBeaver
+- **FrontEnd** : HTML , CSS, Javascript ES6, jQuery, Ajax
+- **BackEnd** : `Java 17`
+- **Database** : Oracle DB 19c
+- **Server** : Tomcat 10.1
+- **API** : FullCalender, CKEditor, Daum주소 API, PDF API
+- **etc**: GitHub, SourceTree, Figma, ERD cloud
+
+
 ![001](https://github.com/lani-30/workspace/assets/122720744/86f69ea1-accb-48cb-882a-e00090722516)
 <br>
 
