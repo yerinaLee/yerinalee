@@ -17,15 +17,16 @@
 ![show](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
 ![show](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
+<br>
 
 ## 💻 Projects
-## 1. 🍯 conBee [ 22.11.21-12.26 ]
+### 1. 🍯 conBee [ 22.11.21-12.26 ]
 > conBee는 **편의점 본사와 지점운영을 지원하는 통합 솔루션**입니다.<br>
 **ERP**와 **그룹웨어** 시스템을 결합, 효율적인 자원 관리와 강화된 협업 기능을 제공합니다.
 * [**🔗 프로젝트 소개**](https://github.com/Bee-Keepers/conbee/tree/main)
 * [**🔗 담당기능 소개**](https://blog.naver.com/poikl11234/223311632237)<br>
 
-## 2. 🍜 Oliview 
+### 2. 🍜 Oliview 
 > Oliview는 **맛집 리뷰 컨텐츠**와 **채팅서비스**를 기반으로 혼자 식사하는것이 지루하거나 외로운 사람들이 다른사람들과 다양한 즐거움을 나눌 수 있는 기회를 제공합니다.<br>
 * [**🔗 프로젝트 소개**](https://github.com/team-farmers/Oliview)
 * [**🔗 담당기능 소개**](https://blog.naver.com/poikl11234/223270562033)
