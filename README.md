@@ -74,5 +74,5 @@
 ---
 
 <h2 align="center">
-  <b><i>"The best error is the one that never happened."</i></b>
+  <b><i>"A developer who guards the team’s most precious asset—TIME."</i></b>
 </h2>
